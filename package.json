@@ -1,6 +1,6 @@
 {
   "homepage": "https://bmuday.github.io/games",
-  "name": "groceries_app",
+  "name": "games",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
